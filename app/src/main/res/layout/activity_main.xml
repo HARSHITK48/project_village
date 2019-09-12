@@ -6,53 +6,52 @@
     android:orientation="vertical">
 
 
-
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="WELCOME TO MASANDRA VILLAGE"
-        android:id="@+id/textView"
-        android:textSize="30dp"
-        android:gravity="center"
         android:layout_gravity="center_horizontal"
-        android:layout_weight="0"/>
+        android:layout_weight="0"
+        android:gravity="center"
+        android:text="@string/homepage_desc"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="30sp" />
 
     <Button
-        android:layout_width="fill_parent"
         android:id="@+id/activity_main_hospital_button"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="HOSPITAL"
-        android:background="#D5FFA6"
         android:layout_margin="2dp"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:background="#D5FFA6"
+        android:text="@string/Hostpital" />
 
     <Button
-        android:layout_width="fill_parent"
         android:id="@+id/activity_main_transport_button"
-        android:layout_height="wrap_content"
-        android:text="TRANSPORT"
-        android:layout_margin="2dp"
-        android:background="#F5FFAE"
-        android:layout_weight="1"/>
-
-    <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_weight="1"
+        android:background="#F5FFAE"
+        android:text="@string/Transport" />
+
+    <Button
         android:id="@+id/activity_main_education_button"
-        android:text="EDUCATION"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="2dp"
+        android:layout_weight="1"
         android:background="#D5FFA6"
-        android:layout_weight="1"/>
+        android:text="@string/Education" />
 
     <Button
-        android:layout_width="fill_parent"
         android:id="@+id/activity_main_garbage_button"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="GARBAGE"
-        android:background="#F5FFAE"
         android:layout_margin="2dp"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:background="#F5FFAE"
+        android:text="@string/Garbage" />
 
 
 </LinearLayout>

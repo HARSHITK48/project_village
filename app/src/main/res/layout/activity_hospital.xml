@@ -10,9 +10,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="80dp"
-        android:text="CALL AMBULANCE"
         android:background="#D5FFA6"
-        android:textSize="20dp" />
+        android:text="@string/CallAmb"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/activity_hospital_location_button"
@@ -20,17 +20,16 @@
         android:layout_height="wrap_content"
         android:layout_margin="80dp"
         android:background="#F5FFAE"
-        android:text="LOCATION/INFO"
-        android:textSize="20dp"  />
+        android:text="@string/LocInfo"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/activity_hospital_call_doctor_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="80dp"
-        android:text="CALL DOCTOR"
         android:background="#D5FFA6"
-        android:textSize="20dp"
-        />
+        android:text="@string/CallDoc"
+        android:textSize="20sp" />
 
 </LinearLayout>
