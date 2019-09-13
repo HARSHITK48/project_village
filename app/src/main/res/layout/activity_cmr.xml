@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:src="@drawable/cmrlogomain"/>
+
+
+    <Button
+            android:id="@+id/activity_cmr_cmrit"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="C.M.R.I.T"
+            android:textColor="#fff"
+            android:background="@color/fav"
+        />
+    <Button
+            android:id="@+id/activity_cmr_cmr_university"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="CMR University"
+            android:textColor="#fff"
+
+        />
+    <Button
+            android:id="@+id/activity_cmr_institute_of_mgmnt"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="CMR Institute of Management Studies"
+            android:textColor="#fff"
+
+        />
+    <Button
+            android:id="@+id/activity_cmr_legal"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="CMR University School of Legal Studies"
+            android:textColor="#fff"
+
+        />
+
+    <Button
+            android:id="@+id/activity_cmr_skills"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="CMR Life Skills Institute"
+            android:textColor="#fff"
+
+        />
+        <Button
+            android:id="@+id/activity_cmr_bussiness"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="CMR Centre for Business Studies"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_ekya_plus_2"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="Ekya School ITPL (K-12 School)"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_ekya_jpnagar"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Ekya School J.P Nagar (K-12 School)"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_ekya_kanakpura"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/fav"
+            android:text="Ekya School Kanakpura Road"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_ekya_btm"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:text="Ekya School BTM Layout"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_high_school"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:text="CMR High School"
+            android:textColor="#fff"
+        />
+        <Button
+            android:id="@+id/activity_cmr_pu_colledge"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:text="CMR National PU College"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_national_public_school"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:text="CMR National Public School"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_nps_international"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:background="@color/fav"
+            android:text="NPS International School, Singapore"
+            android:textColor="#fff"
+            android:layout_marginBottom="20dp"
+            />
+
+
+
+
+</LinearLayout>
+</ScrollView>

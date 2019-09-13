@@ -2,33 +2,40 @@
 <LinearLayout android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:layout_gravity="center"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button
         android:id="@+id/activity_hospital_one_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="80dp"
-        android:text="hospital1"
-        android:background="#D5FFA6"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#9CFFF5"
         android:textSize="20dp" />
 
     <Button
         android:id="@+id/activity_hospital_second_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="80dp"
-        android:background="#F5FFAE"
-        android:text="hospital2"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#9CFFF5"
         android:textSize="20dp" />
 
     <Button
         android:id="@+id/activity_hospital_third_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="80dp"
-        android:text="hospital3"
-        android:background="#D5FFA6"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#9CFFF5"
         android:textSize="20dp"
         />
 

@@ -1,4 +1,73 @@
 <resources>
-    <string name="app_name">project_village</string>
-    <string name="homepage_desc">Welcome to Marasandra Village</string>
+    <string name="app_name">Village</string>
+    <string name="homepage_desc">MASANDRA HELP CENTER</string>
+    <string name="pick_language">SELECT LANGUAGE</string>
+    <string name="hospital">HOSPITAL</string>
+    <string name="transport">TRANSPORT</string>
+    <string name="bus_name">Bus Name and Timing</string>
+
+    <string name="education">EDUCATION</string>
+    <string name="call_ambulance">CALL AMBULANCE</string>
+    <string name="location_info">LOCATION/INFO</string>
+    <string name="east_point_hospital">EAST POINT HOSPITAL</string>
+    <string name="varthur_government_hospital">VARTHUR GOVERNMENT HOSPITAL</string>
+    <string name="seegehalli_government_hospital">SEEGEHALLI GOVERNMENT HOSPITAL</string>
+    <string name="east_point_location">No.113, Bidharahalli, Virgonagar, Bangalore - 560049, Near East Point College</string>
+    <string name="varthur_location">SH 35, Varthur, Karnataka 560087</string>
+    <string name="seegehalli_location">Krishnarajapura, Bengaluru, Karnataka, Bengaluru, Karnataka 560049</string>
+    <string name="east_point_info"></string>
+    <string name="address">Address: </string>
+    <string name="website">Website: </string>
+    <string name="east_point_website">www.epcms.ac.in</string>
+    <string name="emergency">Emergency Services</string>
+    <string name="east_point_emergency_services">The Casualty Department works round the clock.
+        There is a separate emergency section of OBG department which is attached to labor room.
+        The casualty is equipped with 10 beds having Central Oxygen Supply, Central Suction, Defibrillator, Pulse Oxymeter, Ambu Bag, Disaster Trolley and Crash Carts.
+        It is connected to a minor operation theatre and two emergency operation theatres which is fully equipped with Anesthesia, Resuscitation and Surgical equipment.
+The Radiology department and clinical laboratories are placed close to the casualty to serve emergency patients round the Clock
+Timing: 24X7
+</string>
+    <string name="info">Info:-</string>
+    <string name="varthur_info">In Bangalore, Varthur Government Hospital is a recognized name in patient care.
+        They are one of the well-known Public Hospitals in Varthur.
+        Backed with a vision to offer the best in patient care and equipped with technologically advanced healthcare facilities,
+        they are one of the upcoming names in the healthcare industry. Located in ,
+        this hospital is easily accessible by various means of transport.
+        A team of well-trained medical staff, non-medical staff and experienced clinical technicians work round-the-clock to offer various services .
+        Their professional services make them a sought after Public Hospitals in Bangalore.
+        A team of doctors on board, including specialists are equipped with the knowledge and expertise for handling various types of medical cases.
+
+</string>
+
+    <string name="seegehalli_address">Krishnarajapura, Bengaluru, Karnataka, Bengaluru, Karnataka 560049</string>
+    <string name="bus_info">BUS INFO</string>
+    <string name="auto_info">AUTO INFO</string>
+
+    <string name="call_afroz">CALL AFROZ</string>
+    <string name="call_baba">CALL_BABA</string>
+    <string name="call">CALL</string>
+
+
+    <string name="cmr_group">CMR Group of Institution</string>
+    <string name="pre_school">Pre School</string>
+    <string name="primary_school">Primary School</string>
+    <string name="secondary_school">Secondary School</string>
+    <string name="time_pre">T.I.M.E KIDS</string>
+    <string name="time_address">no3, B, 4th A Cross Road, 2nd Block, Ashirvad Colony, Horamavu, Bengaluru, Karnataka 560043</string>
+    <string name="time_phone">097394 33600</string>
+    <string name="time_website">https://www.timekidspreschools.in</string>
+
+    <string name="bns_address">Behind Narayana Matta, Mandur, Bidarahalli Hobali, #129/1 Main Road, Old Baiyyappanahalli, Bengaluru, Karnataka 560049</string>
+    <string name="bns_website">N/A</string>
+    <string name="bns_phone">098450 19858</string>
+
+    <string name="ghps_address">Government Higher Primary School (GHPS), Bengaluru, Manjunatha Layout, Ramamurthy Nagar, Bengaluru, Karnataka- 560016</string>
+    <string name="ghps_website">N/A</string>
+    <string name="ghps_phone">@null</string>
+    <string name="ghs_address">Jyotipura, Bengaluru, Karnataka- 562129</string>
+    <string name="ghs_website">N/A</string>
+    <string name="ghs_phone">@null</string>
+    <string name="hses_address">Byappanahalli Extension, Bengaluru, Karnataka 560038</string>
+    <string name="hses_website">N/A</string>
+    <string name="hses_phone">080-25555252</string>
 </resources>
